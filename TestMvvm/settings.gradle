@@ -1,0 +1,2 @@
+rootProject.name='TestMvvm'
+include ':app'
